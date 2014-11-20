@@ -1,0 +1,17 @@
+# Scala
+*.class
+*.log
+
+# IDEA
+*.iml
+*.ipr
+*.iws
+.idea_modules/
+project/.idea
+out/
+
+# Sbt specific
+target/
+
+# OS X
+*.DS_Store
